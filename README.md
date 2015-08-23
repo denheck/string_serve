@@ -37,8 +37,10 @@ require 'string_serve'
 
 ### Even JSON!
 
+```ruby
 require 'json'
 JSON.generate({:hello => "world"}).serve
+```
 
 ## This is great! I am going to start using it in production right away!
 I wouldn't do that. How about a strange looking dog picture instead:
