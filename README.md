@@ -43,6 +43,6 @@ JSON.generate({:hello => "world"}).serve
 ```
 
 ## This is great! I am going to start using it in production right away!
-I wouldn't do that. How about a strange looking dog picture instead:
+I wouldn't do that. How about a weird looking dog instead:
 
-[](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+[](https://raw.githubusercontent.com/denheck/string_serve/master/dog.jpg)
