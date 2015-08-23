@@ -45,4 +45,4 @@ JSON.generate({:hello => "world"}).serve
 ## This is great! I am going to start using it in production right away!
 I wouldn't do that. How about a weird looking dog instead:
 
-[](https://raw.githubusercontent.com/denheck/string_serve/master/dog.jpg)
+![](https://github.com/denheck/string_serve/blob/master/dog.jpg)
